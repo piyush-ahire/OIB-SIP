@@ -1,4 +1,4 @@
 # OIB-SIP
-In this repo, all the tasks that i have completed during my internship are listed
+In this repo, all the tasks that I have completed during my internship are listed
 
-#Task one contains a landing page of Business college, made using HTML and CSS
+#Task-1 contains a landing page of Business College, made using HTML and CSS
